@@ -88,11 +88,9 @@ regulatory T cell	Treg memory
 mucosal invariant T cell	MAIT cell
 conventional dendritic cell	dendritic cell
 plasmacytoid dendritic cell	plasmacytoid dendritic cell
-common lymphoid progenitor	hematopoietic precursor cell
 hematopoietic stem cell	hematopoietic precursor cell
 classical monocyte	monocyte
 non-classical monocyte	CD16+ monocyte
-mature NK T cell	NK cell
 natural killer cell	NK cell
 natural killer cell	CD56+ NK cell
 plasmablast	plasmablast
